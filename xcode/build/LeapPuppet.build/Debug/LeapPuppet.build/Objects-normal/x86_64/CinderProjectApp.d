@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/mayue/cinder_0.9.0_mac/project/CinderProject/src/CinderProjectApp.cpp \
+  ../../../include/cinder/app/RendererGl.h \
+  /Users/mayue/cinder_0.9.0_mac/project/CinderProject/src/Mesh.hpp \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/Importer.hpp \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/types.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/defs.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/vector3.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/./Compiler/pushpack1.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/./Compiler/poppack1.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/vector2.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/color4.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/matrix3x3.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/matrix4x4.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/quaternion.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/vector2.inl \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/vector3.inl \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/color4.inl \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/quaternion.inl \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/matrix3x3.inl \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/matrix4x4.inl \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/config.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/scene.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/texture.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/mesh.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/light.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/camera.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/material.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/material.inl \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/anim.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/metadata.h \
+  /usr/local/Cellar/assimp/3.1.1/include/assimp/postprocess.h
